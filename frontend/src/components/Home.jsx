@@ -7,7 +7,7 @@ const Home = () => {
     
     <div className="container mx-auto my-5 p-5 rounded-xl bg-gradient-to-br from-blue-100 to-blue-300 min-h-[85vh] w-full md:w-3/4 lg:w-1/2 flex flex-col items-center">
       {/* Title */}
-      <img className='rounded-3xl' src="/src/taskify-logo.png" alt="logo" width={650} height={650}/>
+      <img className='rounded-3xl' src="/taskify-logo.png" alt="logo" width={650} height={650}/>
       <h1 className="text-4xl font-bold text-blue-950 text-center mb-5 py-7">
         Welcome to <span className="text-blue-700">Taskify!</span>
       </h1>
