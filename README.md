@@ -6,8 +6,6 @@ A simple and intuitive To-Do List application to help manage your daily tasks ef
 
 - ➕ Add, ✏️ Edit, and ❌ Delete tasks
 - ✅ Mark tasks as completed
-- 📂 Organize tasks by categories or priorities
-- 🔍 Search and filter tasks
 - 🎨 User-friendly interface
 
 ## 🛠 Tech Stack
