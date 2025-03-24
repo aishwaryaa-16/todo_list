@@ -83,7 +83,7 @@ A simple and intuitive To-Do List application to help manage your daily tasks ef
 2. **Open your browser and visit:**
 
    ```
-   [Taskify](https://taskify-p476.onrender.com/)
+   https://taskify-p476.onrender.com/
    ```
 
 3. **Begin managing your tasks! 📝**
